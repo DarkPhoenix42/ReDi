@@ -1,9 +1,9 @@
 #include <iostream>
 #include <fstream>
 #include <SDL2/SDL.h>
-#include "Utils.hpp"
-#include "../include/json.hpp"
-#include "../include/argparse.hpp"
+#include "Utils.cpp"
+#include "json.hpp"
+#include "argparse.hpp"
 
 using namespace std;
 
